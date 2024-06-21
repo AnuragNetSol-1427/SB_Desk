@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248705344665",
+    "project_id": "sendbirdpoc-88d7e",
+    "storage_bucket": "sendbirdpoc-88d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248705344665:android:ee1098e6fabfb7b693c408",
+        "android_client_info": {
+          "package_name": "com.sb_desk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqOJtfj-3i83ThAG-g6NgPU1qAw6gkyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
